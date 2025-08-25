@@ -1,0 +1,1 @@
+A responsive two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript. The project features interactive gameplay, automatic win/draw detection, and a clean, responsive UI that works smoothly across devices. Designed to practice DOM manipulation, event handling, and game logic implementation.
